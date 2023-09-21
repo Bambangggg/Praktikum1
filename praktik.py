@@ -1,0 +1,6 @@
+nama = str(input("Nama kamu siapa? "))
+asal = str(input("darimana asal kamu " + nama + "?"))
+asal_sekolah = str(input("sebelumnya besekolah dimana?"))
+print("hallo selamat siang " + nama)
+print("wah dari " + asal)
+print("pasti menyenangkan di " + asal_sekolah)
